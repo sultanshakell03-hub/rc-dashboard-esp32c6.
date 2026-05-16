@@ -1,3 +1,4 @@
+yaml
 name: Build ESP32-C6 Firmware
 
 on:
